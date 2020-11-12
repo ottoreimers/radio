@@ -1,0 +1,18 @@
+body {
+  width: 100%;
+
+}
+
+#channels {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  max-width: 200px;
+  height: auto;
+}
+
+.audioPlayer {
+  max-width: 200px;
+}
